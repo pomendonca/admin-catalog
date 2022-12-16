@@ -10,5 +10,5 @@ public class MainTest {
     public void testMain() {
         assertNotNull(new Main());
         Main.main(new String[]{});
-    }g
+    }
 }
